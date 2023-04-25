@@ -1,7 +1,7 @@
 # Talk-at-ICLR-2023
-## Slides
+## Slides:
 
-## Links to videos of interiews:
+## Links to videos of interviews:
 
 
 ## References:
