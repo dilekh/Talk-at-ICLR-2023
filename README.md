@@ -62,7 +62,7 @@
 
 (Lin et al., EACL 2023) Lin, Y.T., Papangelis, A., Kim, S., Lee, S., Hazarika, D., Namazifar, M., Jin, D., Liu, Y. and Hakkani-Tur, D., 2023. Selective In-Context Data Augmentation for Intent Detection using Pointwise V-Information. arXiv preprint arXiv:2302.05096. EACL 2023.
 
-(Ethayarajh et al., PMLR 2022) Ethayarajh, Kawin, Yejin Choi, and Swabha Swayamdipta. "Understanding Dataset Difficulty with $\mathcalV $-Usable Information." In International Conference on Machine Learning, pp. 5988-6008. PMLR, 2022.
+(Ethayarajh et al., PMLR 2022) Ethayarajh, Kawin, Yejin Choi, and Swabha Swayamdipta. "Understanding Dataset Difficulty with V-Usable Information." In International Conference on Machine Learning, pp. 5988-6008. PMLR, 2022.
 
 (Dinan et al., EMNLP 2019) Dinan, Emily, Samuel Humeau, Bharath Chintagunta, and Jason Weston. "Build it break it fix it for dialogue safety: Robustness from adversarial human attack." arXiv preprint arXiv:1908.06083, EMNLP (2019).
 
