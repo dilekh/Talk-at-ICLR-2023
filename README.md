@@ -1,5 +1,5 @@
 # Talk-at-ICLR-2023
-## Slides:
+## [Slides](https://github.com/dilekh/Talk-at-ICLR-2023/blob/main/ICLR%202023.pdf)
 
 ## Links to videos of interviews (all videos are on YouTube):
 [Interview with Prof. Gabriel Skantze, KTH Royal Institute of Technology](https://www.youtube.com/watch?v=t3dKv9suhqU)
